@@ -1,4 +1,4 @@
-package com.springBootDemo.springBootDemo;
+package com.kevin.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
